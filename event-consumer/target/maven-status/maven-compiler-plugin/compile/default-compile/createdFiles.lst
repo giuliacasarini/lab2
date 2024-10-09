@@ -1,3 +1,0 @@
-com\baeldung\ls\config\RabbitMQConfig.class
-com\baeldung\ls\EventConsumer.class
-com\baeldung\ls\events\handler\EventReceiver.class
